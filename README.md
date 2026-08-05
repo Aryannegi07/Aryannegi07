@@ -13,8 +13,8 @@
 - 💻 Passionate about Coding & Development
 - 🌱 Currently learning:
   - Data Structures & Algorithms
-  - Web Development
-  - Java Development
+  - Full-Stack Development
+  - App Development
 - 🏆 Solving problems regularly
 - ⚡ Fun Fact: I debug more than I sleep 😴
 
@@ -42,7 +42,7 @@
 
 ### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
 ### 🌐 Web Development
@@ -73,30 +73,40 @@
 </p>
 
 ---
-
 # 🚀 Featured Projects
 
-## 📱 CodeAlpha App Development Internship
-📌 Upcoming internship focused on Android/App Development.  
-🚀 Excited to work on real-world projects and improve development skills.
+## 🏨 StayInsight AI *(Ongoing – TBI-GEU Internship)*
+
+📌 AI-powered guest review analysis platform being developed during the TBI-GEU AI-Assisted Full Stack Web Development Internship.
+🚀 Features include sentiment analysis, AI-generated responses, review analytics, and intelligent insights using modern full-stack technologies.
+
+---
+
+## 📱 App Development
+
+📌 Built Android and full-stack applications to strengthen practical development skills through real-world projects.
+🚀 Focused on creating responsive, user-friendly, and scalable applications.
 
 ---
 
 ## 🏢 Club Management System
-📌 PBL project for managing club activities and student participation.  
-🚀 Built to simplify event and member management.
+
+📌 Developed a complete club management system to streamline student clubs, event organization, and member management.
+🚀 Simplifies club administration with efficient event and participant handling.
 
 ---
 
-## 🍽️ Canteen Optimization System
-📌 PBL project focused on improving canteen efficiency and reducing wait time.  
-🚀 Includes smart order and management features.
+## 🍽️ Smart Canteen Optimization System
+
+📌 Designed and developed a smart canteen management solution to improve ordering efficiency and reduce waiting time.
+🚀 Includes digital ordering, order tracking, and management features for a seamless user experience.
 
 ---
 
-## 🏨 Hostel Management System
-📌 Contributed to a hostel management project for handling student records.  
-🚀 Worked on system functionality and management features.
+## 🏠 Hostel Management System
+
+📌 Developed a hostel management system to efficiently manage student records, room allocation, and hostel operations.
+🚀 Improved administrative workflow through centralized management features.
 
 ---
 
