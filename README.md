@@ -108,15 +108,6 @@
 📌 Developed a hostel management system to efficiently manage student records, room allocation, and hostel operations.
 🚀 Improved administrative workflow through centralized management features.
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryannegi07&theme=onedark&row=1&column=7" />
-</p>
-
----
 
 ---
 
