@@ -75,7 +75,7 @@
 ---
 # 🚀 Featured Projects
 
-## 🏨 StayInsight AI *(Ongoing – TBI-GEU Internship)*
+## 🏨 StayInsight AI 
 
 📌 AI-powered guest review analysis platform being developed during the TBI-GEU AI-Assisted Full Stack Web Development Internship.
 🚀 Features include sentiment analysis, AI-generated responses, review analytics, and intelligent insights using modern full-stack technologies.
